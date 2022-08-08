@@ -7,3 +7,6 @@ func _on_btnPlay_pressed():
 
 func _on_btnExit_pressed():
 	get_tree().quit()
+
+# Video para ver como persistir la musica a traves del juego.
+# https://www.youtube.com/watch?v=xT51BO8KrIg&t=226s
