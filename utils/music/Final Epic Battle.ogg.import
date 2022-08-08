@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Final Epic Battle.ogg-d8c9d5c8af3f8340831d0510207e0f7b.oggstr"
+
+[deps]
+
+source_file="res://utils/music/Final Epic Battle.ogg"
+dest_files=[ "res://.import/Final Epic Battle.ogg-d8c9d5c8af3f8340831d0510207e0f7b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
